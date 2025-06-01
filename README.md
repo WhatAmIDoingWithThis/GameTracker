@@ -4,9 +4,8 @@ A python based app that helps you manage a list of games. I originally had an Ex
 # How to Install
 ## Runnable Executable (Recommended)
 This is the most painless way to test the code. Exe is compiled with pyinstall
-1. Download the .zip from the releases
-2. Unpack the .zip to target location
-3. Run main.exe
+1. Download the .exe from releases
+2. Run GameTracker.exe in wanted file location
 ## Build from Source Code (Latest)
 This only requires that you have python installed
 1. Download the repo to your local machine
@@ -15,8 +14,8 @@ This only requires that you have python installed
 Note: Again, this project is windows only. I haven't actually looked into it, but I believe the library I use requires different implementation for running on Linux or Mac
 
 # Version History
-## Version 2.0 (Current)
-Complete recoding and overhaul of the system. Much better seperation of responsibility between classes (Now the UI isn't in charge of data management). The different features of the app no longer open in multiple windows, but all in the same window now, plus you can actually copy the link of games. I also need to compile the new code and add it to releases, but I'll do that later.
+## Version 2.0 (Release) (Current)
+Complete recoding and overhaul of the system. Much better seperation of responsibility between classes (Now the UI isn't in charge of data management). The different features of the app no longer open in multiple windows, but all in the same window now, plus you can actually copy the link of games.
 ### Added Features
 - Column Sorting
 - Copy game link
